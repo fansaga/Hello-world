@@ -10,6 +10,7 @@ public class HelloWorldTest
 	{
 		System.out.println("Hello world!");
 		System.out.println("test2");
+		System.out.println("push test");
 	}
 
 }
